@@ -1,7 +1,7 @@
 Breviar de comenzi Git
 =====================================================
 
-git-cheatsheet-ro este o ramură secundară a proiectului https://github.com/esc/git-cheatsheet-de.
+`git-cheatsheet-ro` este o ramură secundară a proiectului https://github.com/esc/git-cheatsheet-de.
 
 Autor
 -----
