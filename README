@@ -1,27 +1,16 @@
-Git -- der Spickzettel
-======================
+Breviar de comenzi [ale sistemului de versionare] Git
+=====================================================
 
-Erstellt im Zusammenhang mit unserem Git-Workshop:
-https://github.com/Feh/git-workshop
+git-cheatsheet-ro este o ramură secundară a proiectului https://github.com/esc/git-cheatsheet-de.
 
+Autor
+-----
 
-Autoren
--------
-
-Julius Plenz <julius@plenz.com>
-Valentin Haenel <valentin.haenel@gmx.de>
+Radu Dumbrăveanu <vundicind@blogspot.com>
 
 
-Lizenz
+Licența
 ------
 
-Veröffentlicht unter der CreativeCommons-Lizenz 3.0 (By,Nc,Sa):
-http://creativecommons.org/licenses/by-nc-sa/3.0/de/
-
-
-Dokumentation
--------------
-
-Der Spickzettel wurde mit PGF/TikZ erstellt. Sehr gutes und ausführliches
-Tutorial zu PGF/TikZ befindet sich unter:
-http://mirror.ctan.org/graphics/pgf/base/doc/generic/pgf/pgfmanual.pdf
+Acest proiect este pus la dispoziţie sub Licenţa Atribuire - Distribuire-în-condiţii-identice 3.0 Ne-adaptată (CC BY-SA 3.0)
+https://creativecommons.org/licenses/by-sa/3.0/deed.ro
