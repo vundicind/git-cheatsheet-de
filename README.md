@@ -6,7 +6,7 @@ git-cheatsheet-ro este o ramură secundară a proiectului https://github.com/esc
 Autor
 -----
 
-Radu Dumbrăveanu (vundicind.blogspot.com).
+Radu Dumbrăveanu (http://vundicind.blogspot.com/).
 
 
 Licența
