@@ -10,7 +10,7 @@ Radu Dumbrăveanu (vundicind@blogspot.com).
 
 
 Licența
-------
+-------
 
-Acest proiect este pus la dispoziţie sub [Licenţa Atribuire - Distribuire-în-condiţii-identice 3.0 Ne-adaptată (CC BY-SA 3.0)](
-https://creativecommons.org/licenses/by-sa/3.0/deed.ro).
+Acest proiect este pus la dispoziţie sub [Licența Atribuire-Necomercial-FărăModificări 3.0 România (CC BY-NC-SA 3.0 RO)](
+http://creativecommons.org/licenses/by-nc-sa/3.0/ro/).
